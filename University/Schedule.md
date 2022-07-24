@@ -1,0 +1,18 @@
+# Schedule
+
+Week Schedule
+
+| Time   | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------ | ------  | ------- | --------- | -------- | ------  | -------- | ------  |
+| 7:00   | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 8:00   | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 9:00   | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 10:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 11:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 12:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 01:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 02:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 03:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 04:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 05:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
+| 06:00  | Subject | Subject | Subject   | Subject  | Subject | Subject  | Subject |
