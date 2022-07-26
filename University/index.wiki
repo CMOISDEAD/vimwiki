@@ -1,0 +1,9 @@
+= University Index =
+
+General links of university file.
+
+    * [[schedule|Schedule]]: My Schedule.
+    * [[jobs|University jobs]]: University Jobs to be done _yesterday_.
+    * Topics: Topics i must study!!.
+    * [[elementary|Elementary notes]]: Nonsense notes related to the university.
+

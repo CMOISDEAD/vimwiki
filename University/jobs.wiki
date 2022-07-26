@@ -1,4 +1,4 @@
-# TODO list
+= Jobs =
 
 TODO:
 
@@ -6,7 +6,9 @@ TODO:
 
 DONE: 
 
-# Kanban
+- [ ] Prepare my workflow stuff.
+
+= Kanban =
 
 | BACKLOG        | TO-DO | IN-PROGRESS | COMPLETED |
 |----------------|-------|-------------|-----------|
